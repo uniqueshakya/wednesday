@@ -1,0 +1,220 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+/*Task one*/
+.one{
+    background-color: rgb(2, 44, 2);
+    color: white;
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+
+.one img{
+    width: 40%;
+    margin-left: 60%;
+    height: 100%;
+}
+
+.one .left{
+    margin-left: 100px;
+    margin-top: -750px;
+}
+.one h1{
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+.one h2{
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+.one p{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.one #black{
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 40px;
+    font-weight: bold;
+}
+.two{
+    background-color: rgb(21, 14, 65);
+    color: white;
+    width: 100%;
+    margin: auto;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.two img{
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size:auto;
+    margin-bottom: auto;
+    height: 400px;
+    padding-left: 25%;
+    
+}
+.two .left{
+    margin-left: 100px;
+    margin-top: -750px;
+}
+.two h1{
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+.two h2{
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+.two p{
+    font-size: 18px;
+    padding-left: 500px;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.three{
+    background-color: rgb(194, 150, 38);
+    color: black;
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+
+.three h1{
+    font-size: 52px;
+    text-align: center;
+}
+
+.three img{
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    width: 350px;
+    height: 425px;
+    padding: 0 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.content{
+    text-align: center;
+}
+
+.text h2{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    padding: 0 100px;
+    display: inline-block;
+}
+
+.text2 p{
+    font-size: 18px;
+    font-weight: 100;
+   padding-bottom: 50%;
+}
+.four{
+    background-color: rgb(19, 7, 70);
+    color: white;
+    width: 100%;
+    margin:auto;
+    height: 750px;
+}
+.four img{
+    width: 50%;
+    margin-right: 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+
+    
+}
+.four .left{
+    margin-left: 20px;
+    margin-top: -700px;
+}
+.four h1{
+    font-size: 72px;
+    margin-bottom: 20px; 
+    padding-left: 900px;
+
+}
+.four p{
+    font-size: 28px;
+    font-weight: 200;
+    padding-left: 900px;
+    padding-bottom: 800px;
+    
+    margin-bottom:-200px;
+
+}
+.five{
+    background-color: rgb(2, 44, 2);
+    color: white;
+    width: 100%;
+    margin: auto;
+    height: 650px;
+}
+
+.five img{
+    width: 50%;
+    margin-left: 50%;
+    height:200px;
+    padding-left: 100px;
+    border-radius: 0%;
+    background-position: 0%;
+}
+
+.five .left{
+    margin-left: 100px;
+    margin-top: -650px;
+}
+.five h1{
+    font-size: 72px;
+    margin-bottom: 20px;
+    padding-left: 100px;
+}
+
+.five h2{
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 30px;
+    padding-left: 100px;
+    
+}
+
+.five p{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    padding-left: 100px;
+}
+
+.five #black{
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 40px;
+    font-weight: bold;
+}
